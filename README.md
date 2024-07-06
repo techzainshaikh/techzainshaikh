@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techzainshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="techzainshaikh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zainshaikh956" target="blank"><img src="https://img.shields.io/twitter/follow/zainshaikh956?logo=twitter&style=for-the-badge" alt="zainshaikh956" /></a> </p>
+<p align="left"> <a href="https://twitter.com/techzainshaikh" target="blank"><img src="https://img.shields.io/twitter/follow/techzainshaikh?logo=twitter&style=for-the-badge" alt="techzainshaikh" /></a> </p>
 
 - 🌱 I’m currently learning **react , python**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zainshaikh956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zainshaikh956" height="30" width="40" /></a>
+<a href="https://twitter.com/techzainshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techzainshaikh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zain-shaikh92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zain-shaikh92" height="30" width="40" /></a>
 <a href="https://instagram.com/techzain092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techzain092" height="30" width="40" /></a>
 </p>
